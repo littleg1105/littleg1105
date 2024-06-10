@@ -27,10 +27,6 @@
 📫 **Reach out to me at:**
 - georgegeorgopoulosgg@gmail.com
 
-🔐 **Certifications:**
-- Udemy's **Learn Ethical Hacking from Scratch**
-- CompTIA Security+ (SY0-701)
-
 👥 **Soft Skills:**
 - Effective communicator, adept at conveying complex tech concepts to non-technical audiences.
 - Creative problem solver with a proven track record in leading cross-functional teams.
