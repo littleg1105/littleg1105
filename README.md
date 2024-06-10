@@ -1,16 +1,38 @@
-## Hi there 👋
+### Hi there, I'm George Georgopoulos 👋
 
-<!--
-**littleg1105/littleg1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Operations Specialist and IT Expert | Cybersecurity Enthusiast**
 
-Here are some ideas to get you started:
+🌍 Based in Paleo Faliro, Athens, Greece
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Background:**
+- **Bachelor’s Degree in Computer Science** from the University of Piraeus.
+- Over **five years of experience** in IT operations and event production at Pangosmion Events.
+- Developed and maintained critical military applications during my service at the Hellenic Army.
+
+💻 **Tech Skills:**
+- **Languages & Frameworks:** JavaScript, Python, Java, SQL, HTML/CSS, React, Kotlin, C#, Unity, JSP, Swift.
+- **Platforms:** Android, iOS.
+
+🌐 **Find me online:**
+- [LinkedIn](https://www.linkedin.com/in/georgesavvasgeorgopoulos/)
+
+👀 **I’m interested in:**
+- **Cybersecurity** and **Data Science** to tackle modern digital challenges.
+- Technological innovation and staying ahead with the latest tech gadgets.
+
+🚀 **Passions:**
+- Game development and participation in Game Jams.
+- Outdoor activities like hiking and aerial photography with my drone.
+
+📫 **Reach out to me at:**
+- georgegeorgopoulosgg@gmail.com
+
+🔐 **Certifications:**
+- Udemy's **Learn Ethical Hacking from Scratch**
+- CompTIA Security+ (SY0-701)
+
+👥 **Soft Skills:**
+- Effective communicator, adept at conveying complex tech concepts to non-technical audiences.
+- Creative problem solver with a proven track record in leading cross-functional teams.
+
+*Eager to contribute and collaborate on projects that push technological boundaries and enhance data security.*
